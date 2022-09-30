@@ -1,0 +1,6 @@
+#include "main.h"
+
+int is_palindrome(char *p)
+{
+	int chk, p_size;
+	char *
